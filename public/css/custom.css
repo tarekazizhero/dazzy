@@ -1,0 +1,19 @@
+.logo{
+    height: 25px;
+    weight: 50px ;
+}
+
+.parallax{
+   
+    background-image: url("/image/homeView.avif");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+.topdiv{
+    margin-top: 140px;
+}
